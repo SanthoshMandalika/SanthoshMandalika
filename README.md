@@ -38,28 +38,28 @@
     <td>Python, Machine Learing</td>
     <td>Major</td>
     <td>August 2023 - December 2023</td>
-    <td><a href="https://github.com/mandalika6082000/Machine-Learning-Models-Analysis">Link</a></td>
+    <td><a href="https://github.com/SanthoshMandalika/Machine-Learning-Models-Analysis">Link</a></td>
   </tr>
   <tr>
     <td>BasketBall Player Performance Prediction</td>
     <td>R, Machine Learing</td>
     <td>Major</td>
     <td>January 2024 - May 2024</td>
-    <td><a href="https://github.com/mandalika6082000/Basketball-Player-Performance-Prediction">Link</a></td>
+    <td><a href="https://github.com/SanthoshMandalika/Basketball-Player-Performance-Prediction">Link</a></td>
   </tr>
   <tr>
     <td>Energy Consumption Forecasting</td>
     <td>Python, Machine Learing</td>
     <td>Mini</td>
     <td>May 2024 - June 2024</td>
-    <td><a href="https://github.com/mandalika6082000/Data-Science-Project-Energy-Consumption-Forecasting">Link</a></td>
+    <td><a href="https://github.com/SanthoshMandalika/Data-Science-Project-Energy-Consumption-Forecasting">Link</a></td>
   </tr>
   <tr>
     <td>Customer Data Analysis</td>
     <td>Tableau</td>
     <td>Mini</td>
     <td>June 2024 - July 2024</td>
-    <td><a href="https://github.com/mandalika6082000/Customer-Data-Analysis">Link</a></td>
+    <td><a href="https://github.com/SanthoshMandalika/Customer-Data-Analysis">Link</a></td>
   </tr>
 </table><br>
 <h2>Certifications</h2><br>
