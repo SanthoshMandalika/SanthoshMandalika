@@ -9,7 +9,7 @@
   <li>Interested in solving business problems using Machines Learning and Analytics</li>
   <li>Play Cricket, Badminton, Basketball, Baseball, Table tennis, Chess</li>
 </ul><br>
-<h2>Experience test</h2><br>
+<h2>Experience</h2><br>
 <table>
   <tr>
     <th>Company</th>
