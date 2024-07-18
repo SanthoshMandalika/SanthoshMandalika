@@ -18,7 +18,7 @@
     <th>Skills used</th>
   </tr>
   <tr>
-    <td>Virtuasa</td>
+    <td>Virtusa</td>
     <td>Data Analyst</td>
     <td>7 months</td>
     <td>R, Python, SQL</td>
