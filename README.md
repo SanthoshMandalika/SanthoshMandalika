@@ -1,4 +1,4 @@
-<h1>Hi all, <br> I am Mandalika Santhosh(He/Him)</h1>
+<h1>Hi all, <br> My name is Santhosh Mandalika(He/Him)</h1>
 <a href="https://www.linkedin.com/in/santhosh-mandalika/"><img src="https://github.com/user-attachments/assets/3ee23687-6d65-4e2c-a914-77e74468aa47" alt="LinkedIn" style="height:50px; width:50px;"/></a> 
 <a href="https://www.hackerrank.com/profile/mandalikasantho1"><img src="https://github.com/user-attachments/assets/778a162b-aea8-4304-be42-43b62844a4cf" alt="HackerRank" style="height:50px; width:50px;"/></a>
 <a href="https://www.datacamp.com/portfolio/lalithasanthoshmandalika"><img src="https://github.com/user-attachments/assets/eb646fb4-1a04-4df6-b31e-1c89334c0f15" alt="HackerRank" style="height:50px; width:50px;"/></a><br><br>
@@ -38,28 +38,28 @@
     <td>Python, Machine Learing</td>
     <td>Major</td>
     <td>August 2023 - December 2023</td>
-    <td></td>
+    <td><a href="https://github.com/mandalika6082000/Machine-Learning-Models-Analysis">Link</a></td>
   </tr>
   <tr>
     <td>BasketBall Player Performance Prediction</td>
     <td>R, Machine Learing</td>
     <td>Major</td>
     <td>January 2024 - May 2024</td>
-    <td></td>
+    <td><a href="https://github.com/mandalika6082000/Basketball-Player-Performance-Prediction">Link</a></td>
   </tr>
   <tr>
     <td>Energy Consumption Forecasting</td>
     <td>Python, Machine Learing</td>
     <td>Mini</td>
     <td>May 2024 - June 2024</td>
-    <td></td>
+    <td><a href="https://github.com/mandalika6082000/Data-Science-Project-Energy-Consumption-Forecasting">Link</a></td>
   </tr>
   <tr>
     <td>Customer Data Analysis</td>
     <td>Tableau</td>
     <td>Mini</td>
     <td>June 2024 - July 2024</td>
-    <td></td>
+    <td><a href="https://github.com/mandalika6082000/Customer-Data-Analysis">Link</a></td>
   </tr>
 </table><br>
 <h2>Certifications</h2><br>
@@ -75,10 +75,6 @@
   <tr>
     <td>SQL</td>
     <td>HackerRank</td>
-  </tr>
-  <tr>
-    <td>R</td>
-    <td>DataCamp</td>
   </tr>
   <tr>
     <td>Machine Learning</td>
@@ -102,6 +98,10 @@
   </tr>
   <tr>
     <td>Pandas</td>
+    <td>DataCamp</td>
+  </tr>
+  <tr>
+    <td>R</td>
     <td>DataCamp</td>
   </tr>
 </table>
